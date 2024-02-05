@@ -1,7 +1,7 @@
 # Airline database project
 
 This project is an SQL database designed for a fictional airline as part of the Database Technology (732A57) course, at Linköping University (Sweden), during fall semester 2020. 
-The project is developed using MySQL benchmark. 
+The project is developed using MySQL Workbench. 
 
 ## Project description
 
